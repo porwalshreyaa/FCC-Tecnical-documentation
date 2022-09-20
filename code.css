@@ -1,0 +1,13 @@
+* {
+  font-family: cursive;
+}
+
+
+
+main {
+  margin-left: 36%;
+  z-index: 1;
+  padding: 2%;
+  height: 100%;
+  display: inline-block;
+}
